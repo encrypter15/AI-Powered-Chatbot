@@ -1,0 +1,58 @@
+📄 Software License Agreement (Proprietary)
+
+Effective Date: 2025-09-03  
+Licensed Software: AI-Powered-Chatbot  
+Licensor: Richard Hayes, operating under the developer handle “Encrypter15” (hereafter “Licensor”)  
+Licensee: Any individual or entity who downloads, installs, or uses the Software
+
+---
+
+1. Grant of License
+Licensor grants Licensee a non-exclusive, non-transferable, revocable license to use the Software for personal or internal business purposes only. This license does not include rights to sublicense, distribute, modify, or resell the Software.
+
+---
+
+2. Restrictions
+Licensee shall not:
+- Copy, modify, or create derivative works of the Software  
+- Reverse engineer, decompile, or disassemble the Software  
+- Distribute, sell, lease, or sublicense the Software to any third party  
+- Use the Software in any manner that violates applicable laws or regulations
+
+---
+
+3. Ownership
+The Software is licensed, not sold. Licensor retains full ownership of all intellectual property rights, including all source code, documentation, and branding.
+
+---
+
+4. Termination
+Licensor may terminate this license at any time if Licensee breaches any term. Upon termination, Licensee must cease all use and delete all copies of the Software.
+
+---
+
+5. Disclaimer of Warranty
+The Software is provided “as is” without warranty of any kind. Licensor disclaims all warranties, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
+
+---
+
+6. Limitation of Liability
+Licensor shall not be liable for any damages arising from the use or inability to use the Software, including direct, indirect, incidental, or consequential damages.
+
+---
+
+7. Updates & Support
+Licensor may, at its discretion, provide updates or support. This license does not guarantee future updates or technical assistance.
+
+---
+
+8. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of Tennessee, United States.
+
+---
+
+9. Contact
+For licensing inquiries or commercial use requests, contact:  
+📧 encrypter15@gmail.com  
+🌐 https://github.com/Encrypter15  
+🧑 Developer Handle: Encrypter15
